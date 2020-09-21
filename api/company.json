@@ -1,0 +1,210 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id":2,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 3,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 4,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 5,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    }, {
+      "id": 6,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id":7,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 8,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 9,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 10,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 11,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    },
+    {
+      "id": 12,
+      "cname": "华勤科技有限公司",
+      "city": "北京",
+      "industry": "计算机金融",
+      "people": "艾克",
+      "phone": "15563368998",
+      "status": "合作中",
+      "job": "UI前端开发",
+      "leader": "王科",
+      "teacher": "王晶",
+      "activityDate": "2020-09-18",
+      "address": "太原科技大学晋城校区",
+      "trade": "通信行业",
+      "telephone": "15563378994"
+
+    }
+  ]
+}
